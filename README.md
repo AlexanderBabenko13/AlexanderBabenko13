@@ -1,6 +1,6 @@
 # 👋 Привет, я Александр (@neewroozas1)
 
-💻 Системный администратор | 🛠️ Автоматизация и scripts | 🌐 VPN / AD / PowerShell  
+💻 Системный администратор | 🛠️ Автоматизация и Scripts | 🌐 VPN / AD / PowerShell  
 
 ---
 
@@ -11,17 +11,26 @@
 </p>
 
 ## 🧑‍💻 Немного обо мне  
-- ⚡ Системный администратор / L2–L3 support  
+- ⚡ Системный администратор / L2–L3 Support  
 - 🛠️ Автоматизирую рутину (PowerShell, Batch, Python, Node.js)  
-- 🌍 Опыт в Windows Server, Active Directory, Group Policy, WDS/PXE, VPN (Cisco/Kerio)  
+- 🌍 Опыт: Windows Server, Active Directory, Group Policy, WDS/PXE, VPN (Cisco/Kerio)  
 - 🔒 Соблюдаю InfoSec практики и люблю порядок в ИТ  
 
 ---
 
 ## 🚀 Технологии и инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,windows,linux,python,nodejs,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=powershell,windows,git,github,vscode,&theme=dark" />
 </p>
+
+---
+
+## 📚 Изучаю
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,nodejs,docker" />
+</p>
+
+> 🔍 Активно развиваюсь в направлении DevOps и инфраструктурной автоматизации (CI/CD, IaC, Cloud).
 
 ---
 
@@ -67,4 +76,3 @@
 <p align="center">
   <sub>⭐ Если тебе зашёл мой профиль или проекты — поддержи звёздочкой! ⭐</sub>
 </p>
-
