@@ -36,22 +36,22 @@
 
 ## 🏆 GitHub Трофеи
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neewroozas1&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderBabenko13&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neewroozas1&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neewroozas1&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderBabenko13&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBabenko13&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 🔥 Активность
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neewroozas1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderBabenko13&theme=tokyonight" />
 </p>
 
 ---
