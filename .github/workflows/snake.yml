@@ -2,12 +2,12 @@ name: Generate snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # каждые 12 часов
-  workflow_dispatch:          # возможность запустить вручную
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
-    branches: ["main"]        # если у тебя default не main — поменяй тут!
+    branches: ["main"]
 
-# ВАЖНО: даём токену право писать в репозиторий (иначе ветку output не создаст)
+# важно: дать экшену право писать в репо
 permissions:
   contents: write
 
@@ -16,14 +16,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout (needs for gh-pages action)
+        uses: actions/checkout@v4
+
       - name: Generate snake files
         uses: Platane/snk@v3
         with:
-          github_user_name: neewroozas1
+          github_user_name: AlexanderBabenko13
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
+
+      - name: Ensure dist exists
+        run: mkdir -p dist
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -31,5 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
           commit_message: "chore: update snake"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}   # <- передаем как input, не через env
