@@ -1,11 +1,11 @@
-# 👋 Привет, я Александр (@neewroozas1)
+# 👋 Привет, я Александр (@AlexanderBabenko13)
 
 💻 Системный администратор | 🛠️ Автоматизация и скрипты | 🌐 VPN / AD / PowerShell
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E90FF,100:8A2BE2&text=Александр%20%7C%20neewroozas1&fontSize=36&fontColor=ffffff&animation=twinkling&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1E90FF,100:8A2BE2&text=Александр%20%7C%20AlexanderBabenko13&fontSize=36&fontColor=ffffff&animation=twinkling&section=header"/>
 </p>
 
 ## 🧑‍💻 Немного обо мне
@@ -49,15 +49,15 @@
 
 ## 🔥 Активность
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neewroozas1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderBabenko13&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🐍 Змейка коммитов
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neewroozas1/neewroozas1/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/neewroozas1/neewroozas1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderBabenko13/AlexanderBabenko13/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/AlexanderBabenko13/AlexanderBabenko13/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
@@ -70,7 +70,7 @@
   <a href="mailto:nevermoore1337@yandex.ru">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/neewroozas1">
+  <a href="https://github.com/AlexanderBabenko13">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
