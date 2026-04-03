@@ -32,17 +32,17 @@
 
 ---
 
-## 🏆 GitHub Трофеи
+## 🧩 GitHub
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderBabenko13&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderBabenko13&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBabenko13&layout=compact&theme=tokyonight" height="180"/>
+  <a href="https://github.com/AlexanderBabenko13">
+    <img src="https://img.shields.io/badge/GitHub-AlexanderBabenko13-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlexanderBabenko13?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Open-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/AlexanderBabenko13?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-View-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
