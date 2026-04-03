@@ -32,21 +32,6 @@
 
 ---
 
-## 🧩 GitHub
-<p align="center">
-  <a href="https://github.com/AlexanderBabenko13">
-    <img src="https://img.shields.io/badge/GitHub-AlexanderBabenko13-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AlexanderBabenko13?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Open-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/AlexanderBabenko13?tab=stars">
-    <img src="https://img.shields.io/badge/Starred-View-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🔥 Активность
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderBabenko13&theme=tokyonight" />
