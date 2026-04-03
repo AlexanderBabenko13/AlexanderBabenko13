@@ -11,7 +11,7 @@
 ## 🧑‍💻 Немного обо мне
 - ⚡ Системный администратор / L2-L3 Support
 - 🛠️ Автоматизирую рутину с помощью PowerShell,Python
-- 🌍 Работаю с Windows Server, Active Directory, Group Policy, WDS/PXE, VPN (Cisco/Kerio)
+- 🌍 Работаю с Windows Server, Active Directory, Group Policy, WDS/PXE, VPN (xray)
 - 🔒 Уделяю внимание InfoSec-практикам и люблю порядок в ИТ
 
 ---
@@ -34,15 +34,15 @@
 
 ## 🏆 GitHub Трофеи
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neewroozas1&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderBabenko13&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 ## 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neewroozas1&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neewroozas1&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderBabenko13&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderBabenko13&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
