@@ -9,7 +9,7 @@
 </p>
 
 ## 🧑‍💻 Немного обо мне
-- ⚡ Системный администратор / L2-L3 Support
+- ⚡ Системный администратор
 - 🛠️ Автоматизирую рутину с помощью PowerShell,Python
 - 🌍 Работаю с Windows Server, Active Directory, Group Policy, WDS/PXE, VPN (xray)
 - 🔒 Уделяю внимание InfoSec-практикам и люблю порядок в ИТ
