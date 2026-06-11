@@ -99,7 +99,7 @@ WPF-инструмент для контролируемой очистки ко
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexanderBabenko13&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub статистика">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderBabenko13&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub streak">
+  <img height="165" src="https://streak-stats.demolab.com?user=AlexanderBabenko13&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub streak">
 </p>
 
 ## Contribution Snake
