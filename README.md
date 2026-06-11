@@ -95,14 +95,14 @@ WPF-инструмент для контролируемой очистки ко
 - основы DevOps-подхода;
 - надежность и безопасность инфраструктуры.
 
-## GitHub Activity
+## Активность
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexanderBabenko13&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub статистика">
   <img height="165" src="https://streak-stats.demolab.com?user=AlexanderBabenko13&theme=tokyonight&hide_border=true&locale=ru" alt="GitHub streak">
 </p>
 
-## Contribution Snake
+## Змейка
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexanderBabenko13/AlexanderBabenko13/output/github-contribution-grid-snake-dark.svg">
